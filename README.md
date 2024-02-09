@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammet-842?tab=repositories](https://github.com/Muhammet-842?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Muhammet-842?tab=repositories)
 
 - 📫 How to reach me **malisahal@hotmail.com**
 
