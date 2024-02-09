@@ -1,4 +1,4 @@
- [![MasterHead](https://www.scality.com/wp-content/uploads/2023/07/software-defined-storage.jpg)
+ ![MasterHead](https://www.scality.com/wp-content/uploads/2023/07/software-defined-storage.jpg)
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
